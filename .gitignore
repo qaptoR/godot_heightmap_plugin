@@ -1,5 +1,7 @@
 
 # Godot-specific ignores
+.godot/
+*.gdshader
 .import/
 export.cfg
 export_presets.cfg
